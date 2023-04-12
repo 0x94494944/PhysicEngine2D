@@ -1,5 +1,5 @@
 # PhysicEngine2D
-A 32 bits Physic Engine using OpenGL, GLFW, GLEW
+<ins>A 32 bits Physic Engine using OpenGL, GLFW, GLEW</ins>
 
 ## Introduction
 This is a modern, simple, and low-cost efficient 2D physics engine written in C++ using OpenGL, GLFW, and GLEW. The engine is currently in developement but is planning to have a 2D objects collision system, velocity, acceleration and gravity.
