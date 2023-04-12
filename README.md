@@ -1,5 +1,3 @@
-
-
 <div id="user-content-toc">
   <ul>
     <summary><h1 style="display: inline-block; padding: 0;">PhysicEngine2D</summary>
@@ -16,4 +14,3 @@
 - [ ] Simple and intuitive API for creating and managing objects
 - [ ] Low-cost efficient design for fast performance
 - [ ] Cross-platform compatibility with Windows, macOS, and Linux
-
