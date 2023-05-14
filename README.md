@@ -11,6 +11,7 @@
 
 ## Features to add
 - [ ] Support for collision detection
+- [ ] Support for collision response
 - [ ] Simple and intuitive API for creating and managing objects
 - [ ] Low-cost efficient design for fast performance
 - [ ] Cross-platform compatibility with Windows, macOS, and Linux
